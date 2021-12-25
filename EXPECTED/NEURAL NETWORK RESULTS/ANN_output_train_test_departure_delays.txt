@@ -1,0 +1,43 @@
+
+ Epoch 1
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Epoch 2
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Epoch 3
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Epoch 4
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Epoch 5
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Epoch 6
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Epoch 7
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Epoch 8
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Epoch 9
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Epoch 10
+Test Error: 
+ Accuracy: 83.4%, Avg loss:      nan 
+
+ Done!
+ ---------------------------------------------------- 
