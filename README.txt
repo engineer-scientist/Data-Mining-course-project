@@ -1,3 +1,5 @@
+(Please note: Since the input data is confidentially provided by Copa Airlines, it is not included in this public repository. Only our code is included here.)
+
 Machine Learning for Flight Delay Forecasting
 Sarthak Sharma, Abbey Centers, Amanda Lovett, and Michael Styron
 CAP 5771 Data Mining Fall 2021
